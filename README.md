@@ -19,5 +19,6 @@ My goal is to secure a Penetration Tester / Vulnerability Analyst role, where I 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 🚀 Projects & Write-ups
-* [Web Security Academy Write-ups: Exploiting Client-Side Vulnerabilities](https://github.com/yungvege/NOME-DO-SEU-REPOSITORIO-AQUI)
+* [XSS Lab: Exploiting & Mitigating Client-Side Vulnerabilities in Next.js](https://github.com/yungvege/lab-vulneravel)
+* [Web Security Academy Write-ups: PortSwigger Labs Portfolio](https://github.com/yungvege/portfolio)
 * *(More vulnerability reports coming soon...)*
